@@ -1,0 +1,5 @@
+target/
+.classpath-cache/
+.settings/org.eclipse.jdt.core.prefs.bak
+*.log
+.env
